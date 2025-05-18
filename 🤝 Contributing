@@ -1,0 +1,21 @@
+# 🤝 Contributing
+
+We welcome contributions from the community!
+
+## How to Contribute
+
+1. **Fork the repository**
+2. **Create a new branch**: `git checkout -b feature/your-feature-name`
+3. **Commit your changes**: `git commit -m "Add your message"`
+4. **Push to your branch**: `git push origin feature/your-feature-name`
+5. **Open a Pull Request** – we’ll review it and get back to you as soon as possible.
+
+## Guidelines
+
+- Follow the existing code style and structure.
+- Write clear, concise commit messages.
+- Add tests for new functionality.
+- Include documentation for any new modules or major changes.
+
+Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+
