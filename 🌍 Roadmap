@@ -1,0 +1,22 @@
+# 🗺️ Roadmap
+
+## ✅ Completed
+- Core agent framework (single-agent loop)
+- Memory integration (vector-based memory + retrieval)
+- Tool API with plug-and-play architecture
+- LLM integration (OpenAI, Anthropic, HuggingFace)
+- Task execution via goal-driven plans
+- Basic CLI support for interaction
+
+## 🚧 In Progress
+- Multi-agent coordination engine
+- Tree-of-Thoughts planner
+- Prompt optimization interface
+- Enhanced evaluation suite
+
+## 🔜 Planned
+- Visual dashboard for live agent monitoring
+- Support for local models (e.g. LLaMA, Mistral)
+- Autonomous agent scheduling
+- Deployment templates (Docker, Lambda, etc.)
+- Fine-tuned model integration for domain-specific agents
