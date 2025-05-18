@@ -1,0 +1,13 @@
+agentic-ai/
+│
+├── agentic_ai/          # Core library
+│   ├── agents/          # Agent definitions and behaviors
+│   ├── tools/           # Tool plugins (web search, APIs, etc.)
+│   ├── memory/          # Memory modules
+│   ├── planning/        # Planners and strategies
+│   └── llm/             # LLM integration
+│
+├── examples/            # Usage examples
+├── tests/               # Unit and integration tests
+├── README.md
+└── requirements.txt
